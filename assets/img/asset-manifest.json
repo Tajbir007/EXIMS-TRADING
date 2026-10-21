@@ -1,0 +1,202 @@
+{
+  "hero-desktop": {
+    "original": "49804.png",
+    "size": [
+      1536,
+      864
+    ],
+    "optimized_kb": 152
+  },
+  "hero-mobile": {
+    "original": "49801.png",
+    "size": [
+      1229,
+      1536
+    ],
+    "optimized_kb": 209
+  },
+  "brands-banner": {
+    "original": "49800.png",
+    "size": [
+      1536,
+      864
+    ],
+    "optimized_kb": 174
+  },
+  "imported-banner": {
+    "original": "49805.png",
+    "size": [
+      1536,
+      864
+    ],
+    "optimized_kb": 179
+  },
+  "world-poster": {
+    "original": "49847.jpg",
+    "size": [
+      1536,
+      864
+    ],
+    "optimized_kb": 104
+  },
+  "social-original": {
+    "original": "49803.png",
+    "size": [
+      1536,
+      807
+    ],
+    "optimized_kb": 134
+  },
+  "product-safety-examination": {
+    "original": "49735.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 190
+  },
+  "product-safety-vinyl-powdered": {
+    "original": "49736.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 197
+  },
+  "product-safety-vinyl-powder-free": {
+    "original": "49737.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 199
+  },
+  "product-safety-sterile-powdered": {
+    "original": "49740.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 241
+  },
+  "product-safety-sterile-powder-free": {
+    "original": "49741.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 239
+  },
+  "product-surgifit-sterile-powdered": {
+    "original": "49750.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 252
+  },
+  "product-surgifit-sterile-powder-free": {
+    "original": "49751.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 266
+  },
+  "product-asp-cidex": {
+    "original": "49761.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 171
+  },
+  "product-jms-medi-tape": {
+    "original": "49756.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 249
+  },
+  "product-tynor-a01": {
+    "original": "49777.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 99
+  },
+  "product-tynor-a07": {
+    "original": "49775.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 99
+  },
+  "product-tynor-d03": {
+    "original": "49779.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 135
+  },
+  "product-tynor-d04": {
+    "original": "49778.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 171
+  },
+  "real-stock-safety": {
+    "original": "49809.jpg",
+    "size": [
+      1536,
+      1152
+    ],
+    "optimized_kb": 223
+  },
+  "real-stock-shelves": {
+    "original": "49810.jpg",
+    "size": [
+      864,
+      1536
+    ],
+    "optimized_kb": 190
+  },
+  "real-stock-jms": {
+    "original": "49808.jpg",
+    "size": [
+      866,
+      1536
+    ],
+    "optimized_kb": 117
+  },
+  "seal-exims": {
+    "original": "49606.jpg",
+    "size": [
+      1536,
+      1523
+    ],
+    "optimized_kb": 105
+  },
+  "seal-trtrade": {
+    "original": "49820.png",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 100
+  },
+  "seal-aromel": {
+    "original": "47885.webp",
+    "size": [
+      1536,
+      1536
+    ],
+    "optimized_kb": 88
+  }
+}
